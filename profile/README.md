@@ -1,4 +1,9 @@
-# FrappeForge
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frappeforge/.github/main/profile/assets/frappeforge-banner-dark.png">
+    <img src="https://raw.githubusercontent.com/frappeforge/.github/main/profile/assets/frappeforge-banner-light.png" alt="FrappeForge — modern tooling for Frappe" width="640">
+  </picture>
+</p>
 
 Open-source developer tooling for the [Frappe Framework](https://frappeframework.com)
 and ERPNext ecosystem — libraries, SDKs, and utilities that make building on Frappe
